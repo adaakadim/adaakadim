@@ -13,7 +13,7 @@
 
 💞️ I’m looking to collaborate on engineering-focused student software projects involving coding and design.
 
-📫 Feel free to contact me through LinkedIn or email: kadimada1@gmail.com
+📫 Feel free to contact me through:
 *GitHub: github.com/adaakadim
 *LinkedIn or email: kadimada1@gmail.com
 
